@@ -7,3 +7,10 @@ PatchBased3D/Scans_Converters/
 PatchBased3D/DenseNet121/
 PatchBased3D/ResNet50/
 PatchBased3D/SEResNet50/
+CN3000_vs _1000/Scans_Converters/
+Final_Models/Test_Converters/
+Final_Models/Val_Converters/
+Final_Models/Train_Converters/
+Final_Models/Test_CN/
+Final_Models/Val_CN/
+Final_Models/Train_CN/
