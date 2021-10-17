@@ -1,13 +1,3 @@
-Data/
-CN3000_vs _1000/Scans_CN/
-CN3000_vs _1000/Scans_Converters/
-CN3000_vs _1000/Scans_Converters/
-Final_Models/Test_Converters/
-Final_Models/Val_Converters/
-Final_Models/Train_Converters/
-Final_Models/Test_CN/
-Final_Models/Val_CN/
-Final_Models/Train_CN/
 Final_Models/DenseNet121/
 Final_Models/ResNet50/
 Final_Models/ResNet18/
