@@ -1,13 +1,3 @@
-Data/
-Models/
-CN3000_vs _1000/Scans_CN/
-CN3000_vs _1000/Scans_Converters/
-PatchBased3D/Scans_CN/
-PatchBased3D/Scans_Converters/
-PatchBased3D/DenseNet121/
-PatchBased3D/ResNet50/
-PatchBased3D/SEResNet50/
-CN3000_vs _1000/Scans_Converters/
 Final_Models/Test_Converters/
 Final_Models/Val_Converters/
 Final_Models/Train_Converters/
